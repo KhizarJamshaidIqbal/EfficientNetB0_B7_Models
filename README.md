@@ -1,6 +1,7 @@
 # EfficientNetB0_Models
 
-- Achieve Validation accuracy for these Models (Represent that the Highest Accuracy on these Models)
+- Achieve Validation accuracy for these Models (Represent the Highest Accuracy on these Models)
+  
   - EfficientNetB0
     - Validation Accuracy = 14
   - ResNet50V2
