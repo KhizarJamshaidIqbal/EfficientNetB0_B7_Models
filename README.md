@@ -4,9 +4,19 @@
   
   - EfficientNetB0
     - Validation Accuracy = 14
-  - ResNet50V2
+  - EfficientNetB1
     - Validation Accuracy = 77
-  - ResNet101
+  - EfficientNetB2
+    - Validation Accuracy = 27
+  - EfficientNetB3
+    - Validation Accuracy = 27
+  - EfficientNetB4
+    - Validation Accuracy = 27
+  - EfficientNetB5
+    - Validation Accuracy = 27
+  - EfficientNetB6
+    - Validation Accuracy = 27
+  - EfficientNetB7
     - Validation Accuracy = 27
 <br/><br/><br/><br/><br/><br/><br/>
 <p align="center">
