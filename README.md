@@ -1,6 +1,6 @@
 # EfficientNetB0_Models
 
-- Achieve Validation accuracy for these Models (Represent the Highest Accuracy on these Models)
+- Achieve Validation accuracy for these Models (Represent the Highest Accuracy on these Models and you easily use these models on your custom dataset and still need to change the dataset path only)
   
   - EfficientNetB0
     - Validation Accuracy = 14
