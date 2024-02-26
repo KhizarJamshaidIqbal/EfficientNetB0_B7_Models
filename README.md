@@ -5,7 +5,7 @@
   - EfficientNetB0
     - Validation Accuracy = 4%
   - EfficientNetB1
-    - Validation Accuracy = 77
+    - Validation Accuracy = 4%
   - EfficientNetB2
     - Validation Accuracy = 27
   - EfficientNetB3
